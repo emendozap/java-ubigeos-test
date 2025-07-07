@@ -43,6 +43,13 @@ public class UbigeoService {
             "departamento": "Lima",
             "provincia": "Lima",
             "distrito": "Surquillo"
+          },
+          {
+            "id": 6,
+            "codigo": "130101",
+            "departamento": "La Libertad",
+            "provincia": "Trujillo",
+            "distrito": "Víctor Larco Herrera"
           }
         ]
         """;
